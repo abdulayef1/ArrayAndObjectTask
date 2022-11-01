@@ -1,0 +1,15 @@
+C:\Workspece\CodeHomeTasks\ArrayTasks\ArrayTasks\bin\Debug\net6.0\ArrayTasks.exe
+C:\Workspece\CodeHomeTasks\ArrayTasks\ArrayTasks\bin\Debug\net6.0\ArrayTasks.deps.json
+C:\Workspece\CodeHomeTasks\ArrayTasks\ArrayTasks\bin\Debug\net6.0\ArrayTasks.runtimeconfig.json
+C:\Workspece\CodeHomeTasks\ArrayTasks\ArrayTasks\bin\Debug\net6.0\ArrayTasks.dll
+C:\Workspece\CodeHomeTasks\ArrayTasks\ArrayTasks\bin\Debug\net6.0\ArrayTasks.pdb
+C:\Workspece\CodeHomeTasks\ArrayTasks\ArrayTasks\obj\Debug\net6.0\ArrayTasks.csproj.AssemblyReference.cache
+C:\Workspece\CodeHomeTasks\ArrayTasks\ArrayTasks\obj\Debug\net6.0\ArrayTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspece\CodeHomeTasks\ArrayTasks\ArrayTasks\obj\Debug\net6.0\ArrayTasks.AssemblyInfoInputs.cache
+C:\Workspece\CodeHomeTasks\ArrayTasks\ArrayTasks\obj\Debug\net6.0\ArrayTasks.AssemblyInfo.cs
+C:\Workspece\CodeHomeTasks\ArrayTasks\ArrayTasks\obj\Debug\net6.0\ArrayTasks.csproj.CoreCompileInputs.cache
+C:\Workspece\CodeHomeTasks\ArrayTasks\ArrayTasks\obj\Debug\net6.0\ArrayTasks.dll
+C:\Workspece\CodeHomeTasks\ArrayTasks\ArrayTasks\obj\Debug\net6.0\refint\ArrayTasks.dll
+C:\Workspece\CodeHomeTasks\ArrayTasks\ArrayTasks\obj\Debug\net6.0\ArrayTasks.pdb
+C:\Workspece\CodeHomeTasks\ArrayTasks\ArrayTasks\obj\Debug\net6.0\ArrayTasks.genruntimeconfig.cache
+C:\Workspece\CodeHomeTasks\ArrayTasks\ArrayTasks\obj\Debug\net6.0\ref\ArrayTasks.dll
